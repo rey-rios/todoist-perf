@@ -1,0 +1,129 @@
+{
+  "aggregate": {
+    "timestamp": "2021-03-21T18:52:43.106Z",
+    "scenariosCreated": 6,
+    "scenariosCompleted": 6,
+    "requestsCompleted": 42,
+    "latency": {
+      "min": 76.3,
+      "max": 896.1,
+      "median": 427.2,
+      "p95": 853.8,
+      "p99": 896.1
+    },
+    "rps": {
+      "count": 42,
+      "mean": 5.27
+    },
+    "scenarioDuration": {
+      "min": 3005.8,
+      "max": 3606.5,
+      "median": 3205,
+      "p95": 3606.5,
+      "p99": 3606.5
+    },
+    "scenarioCounts": {
+      "0": 6
+    },
+    "errors": {},
+    "codes": {
+      "200": 18,
+      "204": 24
+    },
+    "matches": 0,
+    "customStats": {},
+    "counters": {},
+    "scenariosAvoided": 0,
+    "phases": [
+      {
+        "duration": 6,
+        "arrivalRate": 1,
+        "name": "Phase 1"
+      }
+    ]
+  },
+  "intermediate": [
+    {
+      "timestamp": "2021-03-21T18:52:43.101Z",
+      "scenariosCreated": 6,
+      "scenariosCompleted": 6,
+      "requestsCompleted": 42,
+      "latency": {
+        "min": 76.3,
+        "max": 896.1,
+        "median": 427.2,
+        "p95": 853.8,
+        "p99": 896.1
+      },
+      "rps": {
+        "count": 42,
+        "mean": 5.27
+      },
+      "scenarioDuration": {
+        "min": 3005.8,
+        "max": 3606.5,
+        "median": 3205,
+        "p95": 3606.5,
+        "p99": 3606.5
+      },
+      "scenarioCounts": {
+        "0": 6
+      },
+      "errors": {},
+      "codes": {
+        "200": 18,
+        "204": 24
+      },
+      "matches": 0,
+      "latencies": [
+        431448100,
+        396232700,
+        215758900,
+        265848200,
+        310440500,
+        339956600,
+        417481600,
+        281688300,
+        210314100,
+        440214900,
+        576663200,
+        471577200,
+        195311800,
+        485131000,
+        631233400,
+        325271200,
+        241376200,
+        498075700,
+        862498100,
+        646058700,
+        76268700,
+        250819700,
+        580052000,
+        423041200,
+        848035300,
+        311276700,
+        184536300,
+        492341300,
+        667939200,
+        269677300,
+        508230000,
+        735679200,
+        421790700,
+        96395400,
+        517273200,
+        297815600,
+        701008800,
+        500046600,
+        896131700,
+        618457400,
+        398103800,
+        676824500
+      ],
+      "customStats": {},
+      "counters": {},
+      "concurrency": 0,
+      "pendingRequests": 0,
+      "scenariosAvoided": 0
+    }
+  ]
+}
